@@ -1,0 +1,22 @@
+.btn-theme {
+    background-color: #75BF7A;
+   
+   
+    border-radius: 5px;
+    opacity: 0px;
+    color: white;
+    font-weight: normal;
+    border: azure;
+
+}
+
+.col-lg-6 {
+    width: 557px;
+height: 198px;
+top: 337px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+
+
+}
