@@ -13,9 +13,3 @@
 .second{
     background-color: #75BF7A;
 }
-@media (min-width: 299px;) and (max-width: 561px)
-    .car{
-        width: 100%;
-        
-
-    }
