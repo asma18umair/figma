@@ -10,13 +10,12 @@
 
 }
 
-.col-lg-6 {
-    width: 557px;
-height: 198px;
-top: 337px;
-left: 80px;
-gap: 0px;
-opacity: 0px;
-
-
+.second{
+    background-color: #75BF7A;
 }
+@media (min-width: 299px;) and (max-width: 561px)
+    .car{
+        width: 100%;
+        
+
+    }
